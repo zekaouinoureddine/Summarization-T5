@@ -95,7 +95,7 @@ Once you make sure your API is running on the local server or in the Docker cont
 1. Use the **`plain text`** of the multi-paragraph document.
 2. Use the **`URL`** of the multi-paragraph news article.
 
-For example here is the result is got after using [URL provided](https://www.theguardian.com/world/2023/jan/19/three-children-among-six-killed-during-indian-kite-flying-festival):
+For example here is the result I got after using [URL provided](https://www.theguardian.com/world/2023/jan/19/three-children-among-six-killed-during-indian-kite-flying-festival):
 
 <p align="center">
   <img src="./assets/bm3.PNG" />
