@@ -3,7 +3,7 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1KKt6A-SEgbIZ3olUNFts5W93YU0ZyZf_?usp=sharing)
 
 
-# BM ASS
+# Abstractive Summarization T5
 Fine-tune and deploy a model to highlight the most important paragraph of a given multi-paragraph document. However, to accomplish our task, we will fine-tune the T5 model using PyTorch and the Hugging-Face transformers library to extract the important paragraph in a multi-paragraph document or article. By training the T5 model on a dataset of labeled documents, where the task is to predict which paragraph is important. Thus, we can then use the fine-tuned model to make predictions on unseen documents. This task is similar to summarization, where the important paragraph serves as the summary of the document or article in question.
 
 
